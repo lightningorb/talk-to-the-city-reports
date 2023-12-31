@@ -89,7 +89,7 @@
 		"jsonata": "^2.0.3",
 		"jsonwebtoken": "^9.0.2",
 		"jsrsasign": "^10.9.0",
-		"layerchart": "^0.25.1",
+		"layerchart": "^0.27.0",
 		"marked": "^10.0.0",
 		"openai": "^4.18.0",
 		"papaparse": "^5.4.1",
