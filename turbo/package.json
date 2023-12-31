@@ -71,7 +71,7 @@
 		"@types/crypto-js": "^4.2.1",
 		"@types/workerpool": "^6.4.7",
 		"@vitest/coverage-v8": "^0.34.6",
-		"@vitest/ui": "^0.34.6",
+		"@vitest/ui": "^0.34.7",
 		"@xyflow/svelte": "^0.0.28",
 		"@zerodevx/svelte-toast": "^0.9.5",
 		"ag-grid-community": "^30.2.1",
