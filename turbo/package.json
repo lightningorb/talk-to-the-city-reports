@@ -114,7 +114,7 @@
 		"js-tiktoken": "^1.0.8",
 		"jsonata": "^2.0.3",
 		"jsonwebtoken": "^9.0.2",
-		"jsrsasign": "^10.9.0",
+		"jsrsasign": "^11.0.0",
 		"layerchart": "^0.25.1",
 		"marked": "^10.0.0",
 		"node-jq": "^4.2.2",
