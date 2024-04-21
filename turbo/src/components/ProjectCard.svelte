@@ -15,6 +15,8 @@
   let ownerEmail = '';
 
   onMount(async () => {
+    if (!showOwner)
+      return;
     let token = Cookies.get('user_token');
     ownerEmail = await fetch('/api/users/info/email?uid=' + dataset.owner, {
       headers: {
