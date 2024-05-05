@@ -8,6 +8,6 @@ sentence-transformers==2.2.2
 spacy==3.7.0
 hdbscan==0.8.33
 bertopic==0.15.0
-tqdm==4.66.1
+tqdm==4.66.3
 langchain==0.0.308
 tiktoken==0.5.1
