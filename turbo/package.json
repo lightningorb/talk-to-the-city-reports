@@ -121,7 +121,7 @@
     "jsrsasign": "^10.9.0",
     "layerchart": "^0.25.1",
     "marked": "^10.0.0",
-    "node-jq": "^4.2.2",
+    "node-jq": "^6.0.1",
     "openai": "^4.18.0",
     "papaparse": "^5.4.1",
     "pyodide": "^0.24.1",
