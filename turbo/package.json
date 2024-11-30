@@ -105,7 +105,7 @@
     "crypto-js": "^4.2.0",
     "csv-parser": "^3.0.0",
     "deep-copy": "^1.4.2",
-    "dompurify": "^3.0.6",
+    "dompurify": "^3.0.11",
     "dotenv": "^16.3.1",
     "elkjs": "^0.9.1",
     "firebase": "^10.6.0",
